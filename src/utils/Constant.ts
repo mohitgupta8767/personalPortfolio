@@ -11,7 +11,7 @@ export const PROFILE_DETAIL: any = {
   FullName: "Mohit Kumar Gupta",
   Name: "Mohit Gupta",
   Role: "Senior Software Developer",
-  MobileNo: "+918155028499",
+  MobileNo: "+919334946981",
   MobileNoForView: "+91 93349 46981",
   Email1: "mohitgupta8767@gmail.com",
   AllEmail: "mohitgupta8767@gmail.com; mohitgupta3010@gmail.com",
